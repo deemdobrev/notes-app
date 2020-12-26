@@ -1,0 +1,13 @@
+.dockerignore
+.DS_Store
+.eslintcache
+.git
+.gitignore
+.prettierrc.json
+build
+Dockerfile
+examples
+node_modules
+react-app-env.d.ts
+README.md
+storybook-static
